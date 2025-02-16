@@ -32,3 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 .idea/
+config-server/.gitattributes
+config-server/.mvn/wrapper/maven-wrapper.properties
+config-server/mvnw
+config-server/mvnw.cmd
