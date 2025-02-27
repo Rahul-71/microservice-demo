@@ -2,5 +2,13 @@ server:
   port: 8088
 
 spring:
+  #  application:
+  #    name: config-server
+  #  cloud:
+  #    config:
+  #      server:
+  #        native:
+  #          search-locations:
+  #      label: main
   profiles:
     active: native
